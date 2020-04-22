@@ -6,11 +6,11 @@
 	<dict>
 		<key>Headers/PivoProSDK-Swift.h</key>
 		<data>
-		V3OUsD6WnspwUa2UUTm/VhSddj4=
+		KGwGzEIosYNnJjJdNrwBi2qZuuQ=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		t+IHjF0n8wptT4uGxR0MN3QoQzg=
+		WbQA6+sO/M82+beEmznCN3UdYwI=
 		</data>
 		<key>MobileNetV2_SSDLite.mlmodelc/coremldata.bin</key>
 		<data>
@@ -68,37 +68,13 @@
 		<data>
 		xf6IP9CBrpe6d32aCO+yo7ntv9o=
 		</data>
-		<key>Modules/PivoProSDK.swiftmodule/Project/arm.swiftsourceinfo</key>
-		<data>
-		T4MUC4YOaAWtucwTjr2f0b2W4gw=
-		</data>
 		<key>Modules/PivoProSDK.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		gR/E2iUp5jSXuqdmMH8FgqNMqg4=
+		mOdhNrT/+iI/F0CUjWvN0XcYHL4=
 		</data>
 		<key>Modules/PivoProSDK.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<data>
-		gR/E2iUp5jSXuqdmMH8FgqNMqg4=
-		</data>
-		<key>Modules/PivoProSDK.swiftmodule/Project/armv7-apple-ios.swiftsourceinfo</key>
-		<data>
-		T4MUC4YOaAWtucwTjr2f0b2W4gw=
-		</data>
-		<key>Modules/PivoProSDK.swiftmodule/Project/armv7.swiftsourceinfo</key>
-		<data>
-		T4MUC4YOaAWtucwTjr2f0b2W4gw=
-		</data>
-		<key>Modules/PivoProSDK.swiftmodule/arm.swiftdoc</key>
-		<data>
-		zfDMk2xLTX96FIEoDDa81Rf72h8=
-		</data>
-		<key>Modules/PivoProSDK.swiftmodule/arm.swiftinterface</key>
-		<data>
-		+Wk00UZoRNV3bLfKOJuEz8jSS9c=
-		</data>
-		<key>Modules/PivoProSDK.swiftmodule/arm.swiftmodule</key>
-		<data>
-		xiqaTMCZfE2MVlkAP2l28jO7y8E=
+		mOdhNrT/+iI/F0CUjWvN0XcYHL4=
 		</data>
 		<key>Modules/PivoProSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -110,7 +86,7 @@
 		</data>
 		<key>Modules/PivoProSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		Yt481o0y+dYH3kgORL/3BKIDIxE=
+		O2phGhimKXSOmT6o9nmjX9FZMUs=
 		</data>
 		<key>Modules/PivoProSDK.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -122,31 +98,7 @@
 		</data>
 		<key>Modules/PivoProSDK.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		Yt481o0y+dYH3kgORL/3BKIDIxE=
-		</data>
-		<key>Modules/PivoProSDK.swiftmodule/armv7-apple-ios.swiftdoc</key>
-		<data>
-		zfDMk2xLTX96FIEoDDa81Rf72h8=
-		</data>
-		<key>Modules/PivoProSDK.swiftmodule/armv7-apple-ios.swiftinterface</key>
-		<data>
-		+Wk00UZoRNV3bLfKOJuEz8jSS9c=
-		</data>
-		<key>Modules/PivoProSDK.swiftmodule/armv7-apple-ios.swiftmodule</key>
-		<data>
-		xiqaTMCZfE2MVlkAP2l28jO7y8E=
-		</data>
-		<key>Modules/PivoProSDK.swiftmodule/armv7.swiftdoc</key>
-		<data>
-		zfDMk2xLTX96FIEoDDa81Rf72h8=
-		</data>
-		<key>Modules/PivoProSDK.swiftmodule/armv7.swiftinterface</key>
-		<data>
-		+Wk00UZoRNV3bLfKOJuEz8jSS9c=
-		</data>
-		<key>Modules/PivoProSDK.swiftmodule/armv7.swiftmodule</key>
-		<data>
-		xiqaTMCZfE2MVlkAP2l28jO7y8E=
+		O2phGhimKXSOmT6o9nmjX9FZMUs=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -202,7 +154,7 @@
 		</data>
 		<key>SpeedControllerConfig.json</key>
 		<data>
-		2O3lWpiSdaZg9GwIz2+8Bt+sPS8=
+		gTkpa59706QOnDKaBmnBSiGY20A=
 		</data>
 		<key>public.pem</key>
 		<data>
@@ -215,11 +167,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			V3OUsD6WnspwUa2UUTm/VhSddj4=
+			KGwGzEIosYNnJjJdNrwBi2qZuuQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			JCopGFBDoc/fif5DgF1VjAKcPCNA1aHyQQFNkNw2Oas=
+			92ZtxH2QU1j0PwUyFzKUaQtiW5dAEaMYeV1n3vRWJK0=
 			</data>
 		</dict>
 		<key>MobileNetV2_SSDLite.mlmodelc/coremldata.bin</key>
@@ -376,92 +328,26 @@
 			SqOJJk/FzzRSNOYZOlHHtr7P5BpXGEtzDb1GmOc/KYg=
 			</data>
 		</dict>
-		<key>Modules/PivoProSDK.swiftmodule/Project/arm.swiftsourceinfo</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			T4MUC4YOaAWtucwTjr2f0b2W4gw=
-			</data>
-			<key>hash2</key>
-			<data>
-			WNwsx4lPi+WK1jvjuaw9AgYTFfGB4wEW94b+geJy9IM=
-			</data>
-		</dict>
 		<key>Modules/PivoProSDK.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			gR/E2iUp5jSXuqdmMH8FgqNMqg4=
+			mOdhNrT/+iI/F0CUjWvN0XcYHL4=
 			</data>
 			<key>hash2</key>
 			<data>
-			49EFJydEvDraNTYlfe88MOLjhK4W7QTQ9UNkw3os+Po=
+			cqp1KtJid4OT3XHfmwp0A616/kT3CboIGrSsNWB4Sro=
 			</data>
 		</dict>
 		<key>Modules/PivoProSDK.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			gR/E2iUp5jSXuqdmMH8FgqNMqg4=
+			mOdhNrT/+iI/F0CUjWvN0XcYHL4=
 			</data>
 			<key>hash2</key>
 			<data>
-			49EFJydEvDraNTYlfe88MOLjhK4W7QTQ9UNkw3os+Po=
-			</data>
-		</dict>
-		<key>Modules/PivoProSDK.swiftmodule/Project/armv7-apple-ios.swiftsourceinfo</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			T4MUC4YOaAWtucwTjr2f0b2W4gw=
-			</data>
-			<key>hash2</key>
-			<data>
-			WNwsx4lPi+WK1jvjuaw9AgYTFfGB4wEW94b+geJy9IM=
-			</data>
-		</dict>
-		<key>Modules/PivoProSDK.swiftmodule/Project/armv7.swiftsourceinfo</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			T4MUC4YOaAWtucwTjr2f0b2W4gw=
-			</data>
-			<key>hash2</key>
-			<data>
-			WNwsx4lPi+WK1jvjuaw9AgYTFfGB4wEW94b+geJy9IM=
-			</data>
-		</dict>
-		<key>Modules/PivoProSDK.swiftmodule/arm.swiftdoc</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			zfDMk2xLTX96FIEoDDa81Rf72h8=
-			</data>
-			<key>hash2</key>
-			<data>
-			BdLYvxYWR81DF444R8jGkihBCH3qzBVqR26AH8MF3+o=
-			</data>
-		</dict>
-		<key>Modules/PivoProSDK.swiftmodule/arm.swiftinterface</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			+Wk00UZoRNV3bLfKOJuEz8jSS9c=
-			</data>
-			<key>hash2</key>
-			<data>
-			L5dJAT5X/Z2hzSLa/DYY3tsKDph6PKr200SH/15Hr0k=
-			</data>
-		</dict>
-		<key>Modules/PivoProSDK.swiftmodule/arm.swiftmodule</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			xiqaTMCZfE2MVlkAP2l28jO7y8E=
-			</data>
-			<key>hash2</key>
-			<data>
-			IG4PfS+OrNRr97g6QLYdVoa3nG9C2qHeMXOzsd72Wpo=
+			cqp1KtJid4OT3XHfmwp0A616/kT3CboIGrSsNWB4Sro=
 			</data>
 		</dict>
 		<key>Modules/PivoProSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -490,11 +376,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Yt481o0y+dYH3kgORL/3BKIDIxE=
+			O2phGhimKXSOmT6o9nmjX9FZMUs=
 			</data>
 			<key>hash2</key>
 			<data>
-			4ZrslqQJnnwbLLNpViVXroa3Fq5lMymLdDJ0xDlcn6I=
+			A8hevrEUvEITSv6xpSRE0EzoWKABtAowYnFcj8VzKas=
 			</data>
 		</dict>
 		<key>Modules/PivoProSDK.swiftmodule/arm64.swiftdoc</key>
@@ -523,77 +409,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Yt481o0y+dYH3kgORL/3BKIDIxE=
+			O2phGhimKXSOmT6o9nmjX9FZMUs=
 			</data>
 			<key>hash2</key>
 			<data>
-			4ZrslqQJnnwbLLNpViVXroa3Fq5lMymLdDJ0xDlcn6I=
-			</data>
-		</dict>
-		<key>Modules/PivoProSDK.swiftmodule/armv7-apple-ios.swiftdoc</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			zfDMk2xLTX96FIEoDDa81Rf72h8=
-			</data>
-			<key>hash2</key>
-			<data>
-			BdLYvxYWR81DF444R8jGkihBCH3qzBVqR26AH8MF3+o=
-			</data>
-		</dict>
-		<key>Modules/PivoProSDK.swiftmodule/armv7-apple-ios.swiftinterface</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			+Wk00UZoRNV3bLfKOJuEz8jSS9c=
-			</data>
-			<key>hash2</key>
-			<data>
-			L5dJAT5X/Z2hzSLa/DYY3tsKDph6PKr200SH/15Hr0k=
-			</data>
-		</dict>
-		<key>Modules/PivoProSDK.swiftmodule/armv7-apple-ios.swiftmodule</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			xiqaTMCZfE2MVlkAP2l28jO7y8E=
-			</data>
-			<key>hash2</key>
-			<data>
-			IG4PfS+OrNRr97g6QLYdVoa3nG9C2qHeMXOzsd72Wpo=
-			</data>
-		</dict>
-		<key>Modules/PivoProSDK.swiftmodule/armv7.swiftdoc</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			zfDMk2xLTX96FIEoDDa81Rf72h8=
-			</data>
-			<key>hash2</key>
-			<data>
-			BdLYvxYWR81DF444R8jGkihBCH3qzBVqR26AH8MF3+o=
-			</data>
-		</dict>
-		<key>Modules/PivoProSDK.swiftmodule/armv7.swiftinterface</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			+Wk00UZoRNV3bLfKOJuEz8jSS9c=
-			</data>
-			<key>hash2</key>
-			<data>
-			L5dJAT5X/Z2hzSLa/DYY3tsKDph6PKr200SH/15Hr0k=
-			</data>
-		</dict>
-		<key>Modules/PivoProSDK.swiftmodule/armv7.swiftmodule</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			xiqaTMCZfE2MVlkAP2l28jO7y8E=
-			</data>
-			<key>hash2</key>
-			<data>
-			IG4PfS+OrNRr97g6QLYdVoa3nG9C2qHeMXOzsd72Wpo=
+			A8hevrEUvEITSv6xpSRE0EzoWKABtAowYnFcj8VzKas=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -743,11 +563,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			2O3lWpiSdaZg9GwIz2+8Bt+sPS8=
+			gTkpa59706QOnDKaBmnBSiGY20A=
 			</data>
 			<key>hash2</key>
 			<data>
-			/xUlxk0fv9X3cm1aHSxPtQBbysZvboGrdu8ySm4lrIM=
+			VgyEpOrP+vnqXLL1BOVmuylzN0xdSFq17FKn7D9GqyE=
 			</data>
 		</dict>
 		<key>public.pem</key>
